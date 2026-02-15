@@ -93,15 +93,18 @@ portfolio/
 ## Project Setup 
 
 Install Dependencies
+```text
 npm install
-
+```
 Run Development Server
+```text
 npm run dev
-
+```
 Build for Production
+```text
 npm run build
 npm run preview
-
+```
 # Author
 
 Name: Kumkum S Heralgi
