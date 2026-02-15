@@ -62,21 +62,32 @@ https://profile-1ga22cs091.vercel.app/
 ## Project Structure
 
 portfolio/
-├── src/
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ ├── Hero.jsx
-│ │ ├── About.jsx
-│ │ ├── Skills.jsx
-│ │ ├── Projects.jsx
-│ │ └── Contact.jsx
-│ ├── App.jsx
-│ └── main.jsx
 ├── public/
+│   └── vite.svg
+├── src/
+│   ├── assets/
+│   │   └── react.svg
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Footer.jsx
+│   │   └── LoadingScreen.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── index.css
+│   └── App.css
 ├── index.html
+├── README.md
+├── PROCESS.md
 ├── package.json
-├── vite.config.js
-└── README.md
+├── package-lock.json
+├── eslint.config.js
+└── vite.config.js
+
 
 ## Project Setup 
 
