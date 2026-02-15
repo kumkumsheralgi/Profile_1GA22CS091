@@ -5,7 +5,7 @@
 ### Folder Structure Rationale
 
 The project follows a **component-driven architecture** aligned with React best practices.
-
+```text
 src/
 ├── components/
 │ ├── Navbar.jsx
@@ -16,7 +16,7 @@ src/
 │ └── Contact.jsx
 ├── App.jsx
 └── main.jsx
-
+```
 
 **Why this structure was chosen:**
 
@@ -92,10 +92,10 @@ to improve indexing and best practices?
 #### Result
 After applying these optimizations:
 
-- **Performance:** 100
-- **Accessibility:** 84+
+- **Performance:** 89
+- **Accessibility:** 88
 - **Best Practices:** 100
-- **SEO:** 91+
+- **SEO:** 100
 
 These changes were validated using **Lighthouse in Chrome DevTools (production preview)**.
 
@@ -117,3 +117,4 @@ While implementing a dark mode toggle using Tailwind CSS and localStorage, the U
 - Cleaner codebase
 - Predictable UI behavior
 - Improved performance and best practices score
+
