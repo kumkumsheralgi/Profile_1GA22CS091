@@ -87,7 +87,8 @@ portfolio/
 ├── package-lock.json
 ├── eslint.config.js
 └── vite.config.js
-
+```
+----
 
 ## Project Setup 
 
