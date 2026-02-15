@@ -60,7 +60,7 @@ https://profile-1ga22cs091.vercel.app/
 ---
 
 ## Project Structure
-
+```text
 portfolio/
 ├── public/
 │   └── vite.svg
