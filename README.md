@@ -41,7 +41,7 @@ https://profile-1ga22cs091.vercel.app/
   - Project title
   - **Clear 2-line description of the problem solved**
   - Technology stack
-  - **Direct GitHub repository link (mandatory)**
+  - **Direct GitHub repository link**
 - Content-focused cards without project images
 
 ### Contact Section
